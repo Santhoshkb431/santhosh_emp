@@ -116,6 +116,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>emp-details</finalName>
 	</build>
 
 </project>
